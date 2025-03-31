@@ -1,4 +1,4 @@
-# PLexGen
+# Conlang Phonetic Lexicon Generator
 Phonetic lexicon generator and sound change applier - used in `Comparing Statistical and Neural Models for Learning Sound Correspondences`, a LT4HALA 2020 workshop paper (LREC 2020)
 
 # How to 
